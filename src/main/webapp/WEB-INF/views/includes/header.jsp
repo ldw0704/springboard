@@ -16,6 +16,7 @@
 	<link rel="stylesheet" href="/resources/libs/bower/animate.css/animate.min.css">
 	<link rel="stylesheet" href="/resources/libs/bower/fullcalendar/dist/fullcalendar.min.css">
 	<link rel="stylesheet" href="/resources/libs/bower/perfect-scrollbar/css/perfect-scrollbar.css">
+	
 	<link rel="stylesheet" href="/resources/assets/css/bootstrap.css">
 	<link rel="stylesheet" href="/resources/assets/css/core.css">
 	<link rel="stylesheet" href="/resources/assets/css/app.css">
@@ -25,6 +26,7 @@
 	<script>
 		Breakpoints();
 	</script>
+	<script src="/resources/libs/bower/jquery/dist/jquery.js"></script>
 </head>
 	
 <body class="menubar-left menubar-unfold menubar-light theme-primary">
